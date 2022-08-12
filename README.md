@@ -11,7 +11,7 @@ These lists will be expanded.
 
 # Services
 
-- dalle2
+- dalle
 - craiyon
 
 # Type
@@ -30,7 +30,7 @@ Format:
   "type": "light",
   "generations": [
     {
-      "service": "dalle2",
+      "service": "dalle",
       "date": "2022-04-23T18:25:43.511Z",
       "images": ["dl_duckDramaticBackgroundLight1.png", "dl_duckDramaticBackgroundLight2.png"]
     },
