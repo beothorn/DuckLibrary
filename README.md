@@ -2,6 +2,7 @@
 
 A collection of prompt effects for image generation AIs applied to ducks
  
+![logo created by dalle](https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2023.38.23%20-%20A%20duck%2C%20modern%2C%20pictorial%20mark%2C%20iconic%20logo%20symbol.png)
 
 The entries are in JSON format inside the folder duckbase
 
