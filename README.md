@@ -1,10 +1,23 @@
 # DuckLibrary
-A collection of prompt effect for image generation AIs applied to avocados
+
+A collection of prompt effect for image generation AIs applied to ducks
+
+With the rise
+
+The entries are in JSON format inside duckbase.json
+
+
+These lists will be expanded.
+
+# Services
+
+- dalle2
+- craiyon
 
 # Type
 
-light - Modifies the lighting of the scene.
-style - Applies some style
+- light - Modifies the lighting of the scene.
+- style - Applies some style, check the description
 
 
 Format:
@@ -15,7 +28,6 @@ Format:
   "name": "DramaticBacklighting",
   "effect": "Adds a background light to the image",
   "type": "light",
-  "related": ["SoftLight", "HardLight"],
   "generations": [
     {
       "service": "dalle2",
