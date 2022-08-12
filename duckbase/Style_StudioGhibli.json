@@ -1,0 +1,26 @@
+{
+    "prompt": "A duck in the style of Studio Ghibli",
+    "template": "[subject] in the style of Studio Ghibli",
+    "name": "StudioGhibli",
+    "effect": "Uses the style of japanese animation film",
+    "type": "style",
+    "generations": [
+      {
+        "service": "dalle2",
+        "date": "2022-08-12T22:00:00.000Z",
+        "images": [
+        ]
+      },
+      {
+        "service": "craiyon",
+        "date": "2022-08-12T22:00:00.000Z",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_StudioGhibli1.jpeg", 
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_StudioGhibli2.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_StudioGhibli3.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_StudioGhibli4.jpeg"
+        ]
+      }
+    ]
+  }
+  
