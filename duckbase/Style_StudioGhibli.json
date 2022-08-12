@@ -2,7 +2,7 @@
     "prompt": "A duck in the style of Studio Ghibli",
     "template": "[subject] in the style of Studio Ghibli",
     "name": "StudioGhibli",
-    "effect": "Uses the style of japanese animation film",
+    "effect": "Uses the style of japanese animation film. Studio Ghibli is the studio that produced Ponyo, Porco Rosso and many other famous animations.",
     "type": "style",
     "generations": [
       {

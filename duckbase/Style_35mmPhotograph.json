@@ -1,0 +1,26 @@
+{
+    "prompt": "A duck, 35mm photograph",
+    "template": "[subject], 35mm photograph",
+    "name": "35mmPhotograph",
+    "effect": "Adds realism to the image. 35mm is a type of focal length on a lens.",
+    "type": "style",
+    "generations": [
+      {
+        "service": "dalle2",
+        "date": "2022-08-12T22:00:00.000Z",
+        "images": [
+        ]
+      },
+      {
+        "service": "craiyon",
+        "date": "2022-08-12T22:00:00.000Z",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_35mmPhotography1.jpeg", 
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_35mmPhotography2.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_35mmPhotography3.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_35mmPhotography4.jpeg"
+        ]
+      }
+    ]
+  }
+  
