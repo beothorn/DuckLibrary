@@ -1,0 +1,26 @@
+{
+    "prompt": "A duck, modern, pictorial mark, iconic logo symbol",
+    "template": "[subject] , modern, pictorial mark, iconic logo symbol",
+    "name": "ModernPictorialMark",
+    "effect": "Simple logo-like image with few colors.",
+    "type": "style",
+    "generations": [
+      {
+        "service": "dalle2",
+        "date": "2022-08-12T22:00:00.000Z",
+        "images": [
+        ]
+      },
+      {
+        "service": "craiyon",
+        "date": "2022-08-12T22:00:00.000Z",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_ModernPictorialMark1.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_ModernPictorialMark2.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_ModernPictorialMark3.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_ModernPictorialMark4.jpeg"
+        ]
+      }
+    ]
+  }
+  
