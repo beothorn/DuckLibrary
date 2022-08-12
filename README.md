@@ -26,18 +26,28 @@ Format:
   "prompt": "A duck, dramatic backlighting",
   "template": "[subject], dramatic backlighting",
   "name": "DramaticBacklighting",
-  "effect": "Adds a background light to the image",
+  "effect": "Adds a background light to the image, the subject front has low light",
   "type": "light",
   "generations": [
     {
-      "service": "dalle",
-      "date": "2022-04-23T18:25:43.511Z",
-      "images": ["dl_duckDramaticBackgroundLight1.png", "dl_duckDramaticBackgroundLight2.png"]
+      "service": "dalle2",
+      "date": "2022-04-23T19:41:00.000Z",
+      "images": [
+        "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2021.19.41%20-%20A%20duck%2C%20dramatic%20backlighting.png",
+	"https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2021.19.47%20-%20A%20duck%2C%20dramatic%20backlighting.png",
+	"https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2021.19.52%20-%20A%20duck%2C%20dramatic%20backlighting.png",
+	"https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2021.19.58%20-%20A%20duck%2C%20dramatic%20backlighting.png",
+      ]
     },
     {
       "service": "craiyon",
-      "date": "2022-04-23T18:25:43.511Z",
-      "images": ["cr_duckDramaticBackgroundLight1.png", "cr_duckDramaticBackgroundLight2.png"]
+      "date": "2022-08-12T21:00:00.000Z",
+      "images": [
+        "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/cr_DramaticBackgroundLight1.jpeg", 
+	"https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/cr_DramaticBackgroundLight2.jpeg",
+	"https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/cr_DramaticBackgroundLight3.jpeg",
+	"https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/cr_DramaticBackgroundLight4.jpeg",
+      ]
     }
   ]
 }
