@@ -4,7 +4,7 @@ A collection of prompt effect for image generation AIs applied to ducks
 
 With the rise
 
-The entries are in JSON format inside duckbase.json
+The entries are in JSON format inside the folder duckbase
 
 
 These lists will be expanded.
