@@ -9,7 +9,10 @@ Format:
   "date": "2022-04-23T18:25:43.511Z",
   "prompt": "Avocado, dramatic lighting",
   "template": "[subject], dramatic lighting",
-  "effect": "Adds a background light to the image"
+  "name": "DramaticLight",
+  "effect": "Adds a background light to the image",
+  "type": "light",
+  "related": ["SoftLight", "HardLight"],
   "generations": ["avocadoDramaticLight1.png", "avocadoDramaticLight2.png"]
 }
 ```
