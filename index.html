@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DuckLibrary</title>
+</head>
+<body>
+
+    <h1>DuckLibrary</h1>
+    <p>A collection of prompt effects for image generation AIs applied to ducks</p>
+
+    <div id="links"></div>
+
+<script>
+    const duckbase = [
+      "DramaticBacklighting.json",
+      "Style_35mmPhotograph.json",
+      "Style_AlphonseMucha.json",
+      "Style_StudioGhibli.json"
+    ];
+
+    const links = document.getElementById("links");
+
+    const entriesContent = duckbase.map(e => fetch(`./duckbase/${e}`).then(r => r.json()));
+    Promise.all(entriesContent).then((values) => {
+        console.log(values)
+        links.innerHTML = values.map(v => 
+        `<div id=${v.name}>
+            <button onclick="this.parentElement.querySelector('div').style.display='block'">${v.prompt}</button>
+            <div style="display:none;" >
+                <p>Template: ${v.template}</p>
+                <p>Effect: ${v.effect}</p>
+                ${v.generations.map(g => `
+                    <h2>${g.service}</h2>
+                    ${g.images.map(i => `<img loading="lazy" src="${i}"/>`).join('')}
+                `).join('')}
+            </div>
+        </div>`
+        ).join('')
+    });
+
+</script>
+    
+</body>
+</html>
