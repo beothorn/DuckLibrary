@@ -2,7 +2,7 @@
     "prompt": "A duck in the style of Alphonse Mucha",
     "template": "[subject] in the style of Alphonse Mucha",
     "name": "AlphonseMucha",
-    "effect": "Painting that looks like a mix of cell shading and stained glass. Subject may be replaced by a woman. Alphonse Mucha, was a Czech painter.",
+    "effect": "Painting that looks like a mix of cell shading and stained glass. Alphonse Mucha, was a Czech painter.",
     "type": "style",
     "generations": [
       {
