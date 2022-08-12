@@ -1,8 +1,7 @@
 # DuckLibrary
 
-A collection of prompt effect for image generation AIs applied to ducks
-
-With the rise
+A collection of prompt effects for image generation AIs applied to ducks
+ 
 
 The entries are in JSON format inside the folder duckbase
 
