@@ -21,11 +21,13 @@ These patterns are referenced here as "prompt effects"
 
 # The database
 
+This is a collection of prompt templates (prompt effects) and the resulting images from applying them to a duck.
+
 Each prompt effect entry is a JSON file inside the folder duckbase.
 
 The json structure looks like this:
 
-```
+```javascript
 {
   
   "template": "[subject], dramatic backlighting", // A template containg at least the token [subject]
