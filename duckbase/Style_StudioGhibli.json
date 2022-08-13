@@ -3,11 +3,11 @@
     "template": "[subject] in the style of Studio Ghibli",
     "name": "StudioGhibli",
     "effect": "Uses the style of japanese animation film. Studio Ghibli is the studio that produced Ponyo, Porco Rosso and many other famous animations.",
-    "type": "style",
+    "tags": ["style", "illustration"],
     "generations": [
       {
-        "service": "dalle2",
-        "date": "2022-08-12T22:00:00.000Z",
+        "service": "dalle",
+        "date": "2022-08-12",
         "images": [
             "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2022.02.37%20-%20A%20duck%20in%20the%20style%20of%20Studio%20Ghibli.png",
             "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2022.02.44%20-%20A%20duck%20in%20the%20style%20of%20Studio%20Ghibli.png",
@@ -17,7 +17,7 @@
       },
       {
         "service": "craiyon",
-        "date": "2022-08-12T22:00:00.000Z",
+        "date": "2022-08-12",
         "images": [
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_StudioGhibli1.jpeg", 
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_StudioGhibli2.jpeg",

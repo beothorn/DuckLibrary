@@ -3,11 +3,11 @@
   "template": "[subject], dramatic backlighting",
   "name": "DramaticBacklighting",
   "effect": "Adds a background light to the image, the subject front has low light",
-  "type": "light",
+  "tags": ["light", "photography"],
   "generations": [
     {
-      "service": "dalle2",
-      "date": "2022-08-12T19:41:00.000Z",
+      "service": "dalle",
+      "date": "2022-08-12",
       "images": [
         "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2021.19.41%20-%20A%20duck%2C%20dramatic%20backlighting.png",
 	      "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2021.19.47%20-%20A%20duck%2C%20dramatic%20backlighting.png",
@@ -17,7 +17,7 @@
     },
     {
       "service": "craiyon",
-      "date": "2022-08-12T21:00:00.000Z",
+      "date": "2022-08-12",
       "images": [
         "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/cr_DramaticBackgroundLight1.jpeg", 
 	      "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/cr_DramaticBackgroundLight2.jpeg",

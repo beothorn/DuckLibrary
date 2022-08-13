@@ -3,11 +3,11 @@
     "template": "[subject] in the style of Alphonse Mucha",
     "name": "AlphonseMucha",
     "effect": "Painting that looks like a mix of cell shading and stained glass. Alphonse Mucha, was a Czech painter.",
-    "type": "style",
+    "tags": ["style", "illustration"],
     "generations": [
       {
-        "service": "dalle2",
-        "date": "2022-08-12T22:00:00.000Z",
+        "service": "dalle",
+        "date": "2022-08-12",
         "images": [
           "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2022.32.12%20-%20A%20duck%20in%20the%20style%20of%20Alphonse%20Mucha.png",
           "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-08-12%2022.32.19%20-%20A%20duck%20in%20the%20style%20of%20Alphonse%20Mucha.png",
@@ -17,7 +17,7 @@
       },
       {
         "service": "craiyon",
-        "date": "2022-08-12T22:00:00.000Z",
+        "date": "2022-08-12",
         "images": [
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_AlphonseMucha1.jpeg"
         ]
