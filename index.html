@@ -17,22 +17,22 @@
     const links = document.getElementById("links");
 
     const get = (src) => fetch(src).then(r => r.json());
-    const mj = (l, m) => l.map(m).join('')
+    const _ = (l, m) => l.map(m).join('')
 
     get(`./duckbase/index.json`)
       .then((duckbase) => {
         const entriesContent = duckbase.entries.map(e => get(`./duckbase/${e}`));
         Promise.all(entriesContent).then((values) => {
             console.log(values)
-            links.innerHTML = mj(values, (v) => 
+            links.innerHTML = _(values, (v) => 
             `<div id=${v.name}>
                 <button onclick="this.parentElement.querySelector('div').style.display='block'">${v.prompt}</button>
                 <div style="display:none;" >
                     <p>Template: ${v.template}</p>
                     <p>Effect: ${v.effect}</p>
-                    ${mj(v.generations,(g) => `
+                    ${_(v.generations,(g) => `
                         <h2>${g.service}</h2>
-                        ${mj(g.images,(i) => `<img style="width: 100%;" loading="lazy" src="${i}"/>`)}
+                        ${_(g.images,(i) => `<img style="width: 100%;" loading="lazy" src="${i}"/>`)}
                     `)}
                 </div>
             </div>`
