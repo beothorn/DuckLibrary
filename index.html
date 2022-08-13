@@ -19,7 +19,7 @@
     fetch(`./duckbase/index.json`)
       .then(r => r.json())
       .then((duckbase) => {
-        const entriesContent = duckbase.map(e => fetch(`./duckbase/${e}`).then(r => r.json()));
+        const entriesContent = duckbase.entries.map(e => fetch(`./duckbase/${e}`).then(r => r.json()));
         Promise.all(entriesContent).then((values) => {
             console.log(values)
             links.innerHTML = values.map(v => 
