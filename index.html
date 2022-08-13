@@ -34,7 +34,7 @@
                 <p>Effect: ${v.effect}</p>
                 ${v.generations.map(g => `
                     <h2>${g.service}</h2>
-                    ${g.images.map(i => `<img loading="lazy" src="${i}"/>`).join('')}
+                    ${g.images.map(i => `<img style="width: 100%;" loading="lazy" src="${i}"/>`).join('')}
                 `).join('')}
             </div>
         </div>`
