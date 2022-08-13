@@ -74,7 +74,7 @@ The json structure looks like this:
 - photography - Either converts to a photography or affects it
 - style - Applies some style, check the description
 - illustration - Either converts to an illustration or affects it
-
+- 3d - Render something that looks like a 3d render
 
 # Contributing
 

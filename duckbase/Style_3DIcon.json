@@ -1,0 +1,26 @@
+{
+    "prompt": "Very tiny duck that looks like the iOS emoji and has the same colors, 3D clay render, 4k UHD, white background, isometric top down left view, diffuse lighting, zoomed out very far",
+    "template": "Very tiny [subject] that looks like the iOS emoji and has the same colors, 3D clay render, 4k UHD, white background, isometric top down left view, diffuse lighting, zoomed out very far",
+    "name": "3DIcon",
+    "effect": "Creates a 3D icon with an isometric view.",
+    "tags": ["illustration", "3d"],
+    "generations": [
+      {
+        "service": "dalle",
+        "date": "2022-08-13",
+        "images": [
+        ]
+      },
+      {
+        "service": "craiyon",
+        "date": "2022-08-13",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_3dIcon1.jpeg", 
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_3dIcon2.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_3dIcon3.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_3dIcon4.jpeg"
+        ]
+      }
+    ]
+  }
+  
