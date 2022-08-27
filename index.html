@@ -4,6 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DuckLibrary</title>
+    <style>
+        body {
+            margin: 2rem auto;
+            max-width: 70rem;
+            line-height: 1.6;
+            font-size: 1rem;
+            background: #393939;
+            color: #d5d5d5;
+        }
+        img {
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
 
@@ -32,7 +45,7 @@
                     <p>Effect: ${v.effect}</p>
                     ${_(v.generations,(g) => `
                         <h2>${g.service}</h2>
-                        ${_(g.images,(i) => `<img style="width: 100%;" loading="lazy" src="${i}"/>`)}
+                        ${_(g.images,(i) => `<img loading="lazy" src="${i}"/>`)}
                     `)}
                 </div>
             </div>`
