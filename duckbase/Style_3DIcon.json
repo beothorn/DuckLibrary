@@ -24,6 +24,16 @@
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_3dIcon3.jpeg",
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_3dIcon4.jpeg"
         ]
+      },
+      {
+        "service": "stable_diffusion",
+        "date": "2022-08-28",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/3dIcon1.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/3dIcon2.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/3dIcon3.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/3dIcon4.png"
+        ]
       }
     ]
   }
