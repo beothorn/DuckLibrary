@@ -24,6 +24,16 @@
 	      "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/cr_DramaticBackgroundLight3.jpeg",
 	      "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/cr_DramaticBackgroundLight4.jpeg"
       ]
+    },
+    {
+      "service": "stable_diffusion",
+      "date": "2022-08-28",
+      "images": [
+        "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/DramaticBackgroundLight1.png",
+        "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/DramaticBackgroundLight2.png",
+        "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/DramaticBackgroundLight3.png",
+        "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/DramaticBackgroundLight4.png"
+      ]
     }
   ]
 }
