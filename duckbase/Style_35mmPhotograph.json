@@ -24,6 +24,16 @@
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_35mmPhotography3.jpeg",
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_35mmPhotography4.jpeg"
         ]
+      },
+      {
+        "service": "stable_diffusion",
+        "date": "2022-08-28",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/35mmPhotography1.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/35mmPhotography2.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/35mmPhotography3.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/35mmPhotography4.png"
+        ]
       }
     ]
   }
