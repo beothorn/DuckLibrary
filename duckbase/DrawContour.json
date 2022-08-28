@@ -1,0 +1,30 @@
+{
+    "prompt": "A duck detailed outline in black, white background",
+    "template": "A [subject] detailed outline in black, white background",
+    "name": "IconFont",
+    "effect": "Draws a contour of something in black and white.",
+    "tags": ["illustration"],
+    "generations": [
+      {
+        "service": "craiyon",
+        "date": "2022-08-29",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/Contour1.jpeg", 
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/Contour2.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/Contour3.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/Contour4.jpeg"
+        ]
+      },
+      {
+        "service": "stable_diffusion",
+        "date": "2022-08-29",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/Contour1.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/Contour2.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/Contour3.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/Contour4.png"
+        ]
+      }
+    ]
+  }
+  
