@@ -1,0 +1,28 @@
+{
+    "prompt": "White background, Black vector icon for react of a duck, icon font, minimalist, zoomed out",
+    "template": "White background, Black vector icon for react of a [subject], icon font, minimalist, zoomed out",
+    "name": "IconFont",
+    "effect": "Creates a black and white literal icon.",
+    "tags": ["illustration"],
+    "generations": [
+      {
+        "service": "craiyon",
+        "date": "2022-08-29",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/IconFont1.jpeg", 
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/IconFont2.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/IconFont3.jpeg",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/IconFont4.jpeg"
+        ]
+      },
+      {
+        "service": "stable_diffusion",
+        "date": "2022-08-29",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/IconFont1.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/IconFont2.png"
+        ]
+      }
+    ]
+  }
+  
