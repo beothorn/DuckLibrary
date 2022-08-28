@@ -24,6 +24,16 @@
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_StudioGhibli3.jpeg",
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_StudioGhibli4.jpeg"
         ]
+      },
+      {
+        "service": "stable_diffusion",
+        "date": "2022-08-28",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/StudioGhibli1.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/StudioGhibli2.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/StudioGhibli3.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/StudioGhibli4.png"
+        ]
       }
     ]
   }
