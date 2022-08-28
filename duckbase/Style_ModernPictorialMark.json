@@ -24,6 +24,16 @@
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_ModernPictorialMark3.jpeg",
           "https://github.com/beothorn/DuckLibrary/raw/main/images/craiyon/st_ModernPictorialMark4.jpeg"
         ]
+      },
+      {
+        "service": "stable_diffusion",
+        "date": "2022-08-28",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/ModernPictorialMark1.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/ModernPictorialMark2.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/ModernPictorialMark3.png",
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/ModernPictorialMark4.png"
+        ]
       }
     ]
   }
