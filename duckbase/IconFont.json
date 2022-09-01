@@ -22,6 +22,13 @@
           "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/IconFont1.png",
           "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/IconFont2.png"
         ]
+      },
+      {
+        "service": "dalle",
+        "date": "2022-09-01",
+        "images": [
+          
+        ]
       }
     ]
   }
