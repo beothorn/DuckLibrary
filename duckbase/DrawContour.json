@@ -24,6 +24,16 @@
           "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/Contour3.png",
           "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/Contour4.png"
         ]
+      },
+      {
+        "service": "dalle",
+        "date": "2022-09-01",
+        "images": [
+          "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-09-01%2023.17.04%20-%20A%20duck%20detailed%20outline%20in%20black%2C%20white%20background.png",
+          "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-09-01%2023.17.09%20-%20A%20duck%20detailed%20outline%20in%20black%2C%20white%20background.png",
+          "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-09-01%2023.17.28%20-%20A%20duck%20detailed%20outline%20in%20black%2C%20white%20background.png",
+          "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-09-01%2023.17.33%20-%20A%20duck%20detailed%20outline%20in%20black%2C%20white%20background.png"
+        ]
       }
     ]
   }
