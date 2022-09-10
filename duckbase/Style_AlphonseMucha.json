@@ -30,6 +30,13 @@
           "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/AlphonseMucha2.png",
           "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/AlphonseMucha3.png"
         ]
+      },
+      {
+        "service": "midjourney",
+        "date": "2022-09-06",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/midjourney/AlphonseMucha.jpeg"
+        ]
       }
     ]
   }

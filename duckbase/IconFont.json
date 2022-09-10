@@ -32,6 +32,13 @@
           "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-09-01%2023.13.48%20-%20White%20background%2C%20Black%20vector%20icon%20for%20react%20of%20a%20duck%2C%20icon%20font%2C%20minimalist%2C%20zoomed%20out.png",
           "https://raw.githubusercontent.com/beothorn/DuckLibrary/main/images/dalle/DALL%C2%B7E%202022-09-01%2023.13.53%20-%20White%20background%2C%20Black%20vector%20icon%20for%20react%20of%20a%20duck%2C%20icon%20font%2C%20minimalist%2C%20zoomed%20out.png"
         ]
+      },
+      {
+        "service": "midjourney",
+        "date": "2022-09-06",
+        "images": [
+          "https://github.com/beothorn/DuckLibrary/raw/main/images/midjourney/IconFont.jpeg"
+        ]
       }
     ]
   }

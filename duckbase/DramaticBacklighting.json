@@ -34,6 +34,13 @@
         "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/DramaticBackgroundLight3.png",
         "https://github.com/beothorn/DuckLibrary/raw/main/images/stable_diffusion/DramaticBackgroundLight4.png"
       ]
+    },
+    {
+      "service": "midjourney",
+      "date": "2022-09-06",
+      "images": [
+        "https://github.com/beothorn/DuckLibrary/raw/main/images/midjourney/DramaticBacklighting.jpeg"
+      ]
     }
   ]
 }
