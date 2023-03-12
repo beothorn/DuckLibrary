@@ -1,3 +1,9 @@
+# Discontinued
+
+When I created this repository, there where only a few models and it made sense to understand how different inputs changed the image.  
+This may still make sense for closed models like dalle or midjourney, but anyone who wants to have better control over the output sould be using the open stable diffusion.  
+A few months later, the amount of new models, new ways to generate and control the output are so many and so flexible that creating an image from prompt alone with the vanilla models don't make any sense anymore. I encourage you to visit r/StableDiffusion and look for things like Dreambooth, Lora, Controlnet or whathever new thing is being used right now.  
+
 # DuckLibrary
 
 A collection of prompt effects for image generation AIs applied to ducks
